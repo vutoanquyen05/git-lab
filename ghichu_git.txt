@@ -1,1 +1,2 @@
 File thuc hanh Git
+Dong nay duoc them tren GitHub
